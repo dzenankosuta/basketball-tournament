@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "country": "USA",
+          "iso_code": "USA",
+          "fiba_rank": 1
+        },
+        {
+          "country": "Spain",
+          "iso_code": "ESP",
+          "fiba_rank": 2
+        },
+        {
+          "country": "Australia",
+          "iso_code": "AUS",
+          "fiba_rank": 3
+        },
+        {
+          "country": "France",
+          "iso_code": "FRA",
+          "fiba_rank": 4
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "country": "Serbia",
+          "iso_code": "SRB",
+          "fiba_rank": 5
+        },
+        {
+          "country": "Greece",
+          "iso_code": "GRE",
+          "fiba_rank": 6
+        },
+        {
+          "country": "Argentina",
+          "iso_code": "ARG",
+          "fiba_rank": 7
+        },
+        {
+          "country": "Brazil",
+          "iso_code": "BRA",
+          "fiba_rank": 8
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "country": "Lithuania",
+          "iso_code": "LTU",
+          "fiba_rank": 9
+        },
+        {
+          "country": "Italy",
+          "iso_code": "ITA",
+          "fiba_rank": 10
+        },
+        {
+          "country": "Slovenia",
+          "iso_code": "SVN",
+          "fiba_rank": 11
+        },
+        {
+          "country": "Canada",
+          "iso_code": "CAN",
+          "fiba_rank": 12
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "country": "Czech Republic",
+          "iso_code": "CZE",
+          "fiba_rank": 13
+        },
+        {
+          "country": "Poland",
+          "iso_code": "POL",
+          "fiba_rank": 14
+        },
+        {
+          "country": "Turkey",
+          "iso_code": "TUR",
+          "fiba_rank": 15
+        },
+        {
+          "country": "China",
+          "iso_code": "CHN",
+          "fiba_rank": 16
+        }
+      ]
+    }
+  ]
+}
